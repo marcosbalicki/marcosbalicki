@@ -1,16 +1,11 @@
 ### Olá 👋
 
-<!--
-**marcosbalicki/marcosbalicki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on SEED
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on ...
+- 🔭 SEED
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about everithing
 - 📫 How to reach me: marcos.balicki@escola.pr.gov.br
 - 😄 Pronouns: Ms
 - ⚡ Fun fact: Nóis trupica mas não cai!!!
 -->
+(https://images.app.goo.gl/JQ9xyEq4WjwHhZHy8)
+  
