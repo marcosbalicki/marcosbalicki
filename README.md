@@ -3,7 +3,7 @@ Espero que sim!
 
 
 Sou o Prof. **Marcos Balicki**
-- 🔭 Professor de **Geografia, Matemática, Empreendedorismo, Ed. Financeira e Programaçaõ**
+- 🔭 Professor de **Geografia, Matemática, Empreendedorismo, Ed. Financeira e Programação**
   
 - 💬 Pergunte-me suas dúvidas!
 - 📫 Você me encontra no endereço: marcos.balicki@escola.pr.gov.br
